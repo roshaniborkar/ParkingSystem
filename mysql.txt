@@ -1,0 +1,4 @@
+\sql
+\connect root@localhost:3306
+show databases;
+use parking_system;
