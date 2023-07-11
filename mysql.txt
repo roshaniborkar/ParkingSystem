@@ -1,3 +1,5 @@
+To connect the data base 
+
 \sql
 \connect root@localhost:3306
 show databases;
